@@ -14,4 +14,4 @@ download this repo, then double click any of the files ending in .py to run it.
 
 calculates max fuel and supply at a base before spoilage starts based on port and airfield size.
 
-Example output for spoilage.py: 
+Example output for spoilage.py: https://github.com/korbelz/witp_py/wiki
