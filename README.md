@@ -4,7 +4,7 @@ Simple python tools for War in the Pacific
 
 War in the Pacific: http://www.matrixgames.com/products/product.asp?gid=351 
 
-War in the Pacific discord: 
+War in the Pacific discord(run by XTRG): https://discord.gg/CsFM2VP
 
 download Python 3.7 here: https://www.python.org/
 
