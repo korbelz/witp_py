@@ -49,7 +49,7 @@ for airdata in airdata:
         #print (ha35total)
     elif airdata[4] == 'Mitsubishi Ha-32':
         ha32total = ha32total + int(airdata[5])
-        print (ha32total)
+        #print (ha32total)
     elif airdata[4] == 'Mitsubishi Ha-31 ':
         ha31total = ha31total + int(airdata[5])
         #print (ha31total)
@@ -97,9 +97,9 @@ for engdata in engdata:
 #print (ha35eng)
 print ('Engine name.......Number required.....Extra Engines Required')
 print (f'Nakajima Ha-35          {ha35total}                {ha35total - ha35eng}')
-print (f'Nakajima Ha-34          {ha34total}                {ha34total - ha34eng}')
-print (f'Mitsubishi Ha-31        {ha31total}                {ha31total - ha31eng}')
-print (f'Mitsubishi Ha-32        {ha32total}                {ha32total - ha32eng}')
-print (f'Mitsubishi Ha-33        {ha33total}                {ha33total - ha33eng}')
+print (f'Nakajima Ha-34          {ha34total}                  {ha34total - ha34eng}')
+print (f'Mitsubishi Ha-31        {ha31total}                  {ha31total - ha31eng}')
+print (f'Mitsubishi Ha-32        {ha32total}                  {ha32total - ha32eng}')
+print (f'Mitsubishi Ha-33        {ha33total}                  {ha33total - ha33eng}')
 
 input('Press ENTER to exit')
