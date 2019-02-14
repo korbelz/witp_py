@@ -7,6 +7,7 @@ War in the Pacific: http://www.matrixgames.com/products/product.asp?gid=351
 War in the Pacific discord(run by XTRG): https://discord.gg/CsFM2VP
 
 download Python 3.7 here: https://www.python.org/
+
 **make sure to click the 'ADD to PATH' when installing python
 
 download this repo, then double click any of the files ending in .py to run it.
@@ -31,5 +32,6 @@ calculates number of engines you need to be producting right now. Japan only.
 Requires the following two CSV files to be Exported from WitP Tracker AE:
  - Airframe Production
  - Engines 
+
 After export both CSV files need to be copies to same folder as simple-engine.py
 
