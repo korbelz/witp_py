@@ -101,3 +101,5 @@ print (f'Nakajima Ha-34          {ha34total}                {ha34total - ha34eng
 print (f'Mitsubishi Ha-31        {ha31total}                {ha31total - ha31eng}')
 print (f'Mitsubishi Ha-32        {ha32total}                {ha32total - ha32eng}')
 print (f'Mitsubishi Ha-33        {ha33total}                {ha33total - ha33eng}')
+
+input('Press ENTER to exit')
