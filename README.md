@@ -20,7 +20,7 @@ Example output for spoilage.py: https://github.com/korbelz/witp_py/wiki
 
 ## bomber.py airfield size for bombers calc
 
-calculates airfield size needed to use level bombers to their full load/range.
+calculates airfield size needed to use level bombers to their full load/range. based on formula from the manual, I'm not sure its right for light bombers.
 
 ## airfield_damage.py airfield damage calc
 
