@@ -19,3 +19,12 @@ Example output for spoilage.py: https://github.com/korbelz/witp_py/wiki
 ## bomber.py airfield size for bombers calc
 
 calculates airfield size needed to use level bombers to their full load/range.
+
+## airfield_damage.py airfield damage calc
+
+calculates airfield damage needed to stop strike or patrol/CAP missions from an airfield.
+
+## simple_engine.py is a very simple engine production calc
+
+calculates number of engines you need to be producting right now. Japan only. 
+
