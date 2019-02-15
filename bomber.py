@@ -22,6 +22,7 @@ while i_loop < 10:
     airfield_size = int(airfield_size)
 
     print (f'This bomber required an airfield size of: {airfield_size}')
+    print ('Light bombers only require a size 2 airfield')
     i_loop += 1 
 
 input('Press ENTER to exit')
